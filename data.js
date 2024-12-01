@@ -745,7 +745,7 @@ var APP_DATA = {
           "yaw": 0.22120176614424203,
           "pitch": 0.20730442688032724,
           "rotation": 0,
-          "target": "6-catedral-de-san-cristbal-mrtir6"
+          "target": "15-catedral-de-san-cristbal-mrtir15"
         }
       ],
       "infoHotspots": []
